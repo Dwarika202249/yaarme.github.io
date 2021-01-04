@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-bar {
+    background-color: rgb(175, 185, 175);
+    height: 100px;
+}
+
+.nav-bar img {
+    margin-top: 45px;
+    margin-left: 15px;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    box-shadow: 1px 1px #888888;
+}
+
+.logos img{
+    margin: 10px 10px 10px 10px;
+    float: right;
+    height: 20px;
+    width: 20px;
+}
+
+.comp-details {
+    margin-top: 65px;
+    margin-bottom: 15px;
+}
+
+.comp-details h1 {
+    margin-left: 15px;
+}
+
+.comp-details h4 {
+    margin-top: 5px;
+    margin-left: 15px;
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: lighter;
+}
+
+.post-notify {
+    margin: 15px 15px 0;
+    height: 30px;
+}
+
+.post-notify h5 {
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: lighter;
+}
+
+.down-logo img {
+    margin: 20px 20px 10px 10px;
+    float: right;
+    height: 20px;
+    width: 20px;
+}
+
+.post {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.post h4 {
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: lighter;
+    font-size: small;
+}
+
+.post img {
+    height: 70px;
+    width: 70px;
+}
+
+h1, h2 {
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: lighter;
+}
+
+h3 {
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+.yaarme-img {
+    position: absolute;
+}
+
+.yaarme-img img {
+    height: 400px;
+    margin-top: -60px;
+    position: relative;
+    z-index: -1;
+    overflow: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.yaarme-img h3 {
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: bold;
+    margin-top: -50px;
+}
+
+.yaarme-img h5 {
+    font-family: 'Gill Sans', sans-serif;
+    font-weight: lighter;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: rgb(143, 140, 140);
+}
+
+.post-head {
+    margin-right: 20px;
+}
+
+.edit img {
+    margin: 300px 30px 10px 10px;
+    float: right;
+    height: 30px;
+    width: 30px;
+}
